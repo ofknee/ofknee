@@ -1,4 +1,5 @@
-## Hi there 👋
+## hey twin ✰
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 <!--
 **ofknee/ofknee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
