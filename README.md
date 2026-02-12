@@ -1,4 +1,7 @@
-## hey twin ✰
+## boop ✰
+Check out my unfinished [website](https://ofknee.github.io/my-galaxy)!
+
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
