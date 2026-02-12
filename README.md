@@ -1,4 +1,6 @@
 ## boop ✰
+- game dev / wev dev
+- trying to learn backend rn
 Check out my unfinished [website](https://ofknee.github.io/my-galaxy)!
 
 ![Screenshot of Hackatime being 140 hours, 20 minutes, and 20 seconds.](/time.png)
