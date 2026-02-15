@@ -1,6 +1,6 @@
 ## ✰✰✰ boo 👻
-- game dev / wev dev
-- trying to learn backend rn
+- game dev / web dev
+- trying to learn backend rn 💔
 
   
 Check out my (unfinished) [website](https://ofknee.github.io/my-galaxy)!
