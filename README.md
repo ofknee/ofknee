@@ -1,9 +1,7 @@
 ## ✰✰✰ boo 👻
 - game dev!!!
 
-  
-Check out my (unfinished) [website](https://ofknee.github.io/my-galaxy)!
-
+[itch](https://of-knee.itch.io/)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
